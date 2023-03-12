@@ -1,2 +1,1 @@
-#!bin/bash
-This is code
+This file is mandatory in projects
